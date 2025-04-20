@@ -22,7 +22,7 @@ const EducationSection = () => {
       achievements: ["CGPA: 9.48", "Course: Computer Science"],
       skills: ["ReactJS", " NodeJS", "MongoDB", "Javascript", "Figma", "C/C++", "Git"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Focused on full-stack development with skills in ReactJS, NodeJS, MongoDB, and UI/UX design using Figma. Strong foundation in programming and version control.",
     },
     {
       degree: "Higher Secondary Certificate (HSC)",
@@ -32,17 +32,17 @@ const EducationSection = () => {
       achievements: ["Percentage: 44%", "Course: Science"],
       skills: ["Mathematics", "Physics", "Chemistry"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Built a foundation in core science subjects with emphasis on analytical thinking and problem-solving through Mathematics, Physics, and Chemistry.",
     },
     {
       degree: "Secondary School Certificate (SSC)",
       school: "John Milton English School",
       mascot: "📙",
       year: "2020-2021",
-      achievements: ["Percentage: 56%", "Course: Science"],
+      achievements: ["Percentage: 56%"],
       skills: ["Mathematics", "Science", "Hindi", "English", "Social Science", "Computer"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Gained a broad academic foundation with focus on Science, Mathematics, Computer, and languages, developing basic analytical, technical, and communication skills.",
     }
   ];
 
