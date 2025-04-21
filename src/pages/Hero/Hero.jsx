@@ -159,9 +159,7 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                MERN Stack 🌐 | Python🐍 | Arduino 🤖 | C©️ | <br />
-                CP💻 (C++) | Linux❤️ | Freelancer | <br />
-                Solved 150+ DSA Problems (LeetCode & GFG)
+                  Skilled in developing web applications with the MERN stack 🌐 and proficient in C++ 💻 & JavaScript ⚡. Passionate about problem-solving 🧠 with 150+ DSA problems solved on LeetCode and GeeksforGeeks 🔍
                 </p>
               </div>
 
