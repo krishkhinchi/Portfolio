@@ -159,7 +159,7 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  Skilled in developing web applications with the MERN stack 🌐 and proficient in C++ 💻 & JavaScript ⚡. Passionate about problem-solving 🧠 with 150+ DSA problems solved on LeetCode and GeeksforGeeks 🔍
+                  Skilled in developing web applications with the MERN stack 🌐 and proficient in C++ 💻 & JavaScript ⚡. Passionate about problem-solving 🧠 with 200+ DSA problems solved on LeetCode and GeeksforGeeks 🔍
                 </p>
               </div>
 
@@ -172,7 +172,7 @@ const profile = {
                 >
                   <span className="block w-full px-6 sm:px-8 py-3 sm:py-4 rounded-[11px] bg-gray-900 transition-all duration-300 group-hover:bg-gradient-to-r group-hover:from-blue-500 group-hover:to-teal-400">
                     <span className="relative flex items-center justify-center gap-2 text-white font-medium">
-                      <span>Learn More</span>
+                      <span>Connect</span>
                       <i className="fas fa-arrow-right transform transition-all duration-300 group-hover:translate-x-1"></i>
                     </span>
                   </span>
@@ -180,7 +180,7 @@ const profile = {
 
                 {/* Contact Button */}
                 <a
-                  href="https://drive.google.com/file/d/1Z6mnKfEuHgsLqHzTjJPQfHlxtK7P65vX/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1LHbX1BhXzwwbp9hNZbhxBwBWmot2fQmq/view?usp=sharing"
                   className="group relative inline-flex items-center justify-center gap-3 p-0.5 rounded-xl bg-gradient-to-r from-gray-800 to-gray-700 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#60A5FA]"
                 >
                   <span className="block w-full px-6 sm:px-8 py-3 sm:py-4 rounded-[11px] bg-gray-900 border border-gray-700/50 transition-all duration-300 group-hover:bg-gradient-to-r group-hover:from-gray-800 group-hover:to-gray-700">
