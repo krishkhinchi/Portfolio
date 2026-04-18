@@ -26,6 +26,19 @@ const ProjectShowcase = () => {
       },
       image: AttentionAI,
       featured: true,
+    },
+    {
+      title: "Odoo Replica, An ultimate business tool",
+      description:
+        "This project enhanced my full-stack development skills and showcased my ability to create customizable software solutions.",
+      tags: ["React.js", "Node.js", "MongoDB", "Express.js","JavaScript", "Tailwind CSS"],
+      category: "Frontend",
+      links: {
+        github: "https://github.com/krishkhinchi/Odoo_Clone",
+        demo: "https://odooclone.netlify.app/",
+      },
+      image: odoo,
+      featured: false,
     }
   ];
 
