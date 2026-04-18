@@ -55,27 +55,27 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Network,
-      title: "WordPress Developer",
-      company: "Fiverr",
-      period: "2019 - 2020",
+      title: "Member ATL Lab",
+      company: "Atal Innovation Mission",
+      period: "May 2018 - Feb 2020",
       description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
+        "Member of Atal Tinkering Lab (ATL) under Atal Innovation Mission, NITI Aayog (2018–2020). Worked with AI, robotics, and design thinking on innovation-focused projects aligned with Skill India initiatives.",
     },
     {
       icon: Layers,
-      title: "Junior Frontend Developer",
-      company: "Sera Programmer",
-      period: "2021 - 2023",
+      title: "Contributor",
+      company: "Open Source Connect",
+      period: "Jan 2026 - Feb 2026",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "Contributed to open-source projects during Open Source Connect Global 2026, collaborating with a global developer community and applying GitHub workflows in a remote environment.",
     },
     {
       icon: Code2,
-      title: "JavaScript Developer",
-      company: "OlovJS (Sera Programmer)",
-      period: "2023 - Present",
+      title: "Contributor",
+      company: "Elite Coders",
+      period: "Jan 2026 - Mar 2026",
       description:
-        "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
+        "Selected among 5000+ participants for Elite Coders Winter of Code 2026, contributing to open-source projects and strengthening skills in collaboration and version control.",
     },
   ];
 

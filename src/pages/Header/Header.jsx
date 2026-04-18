@@ -36,14 +36,13 @@ export default function Header() {
       text: "Education",
       path: "/education",
     },
-    // {
-    //   id: "experience",
-    //   icon: FaBriefcase,
-    //   text: "Experience",
-    //   path: "/experience",
-    // },
+    {
+      id: "experience",
+      icon: FaBriefcase,
+      text: "Experience",
+      path: "/experience",
+    },
     { id: "contact", icon: FaEnvelope, text: "Contact", path: "/contact" },
-    // { id: "contact", icon: FaEnvelope, text: "Contact", path: "/contact" },
   ];
 
   return (
