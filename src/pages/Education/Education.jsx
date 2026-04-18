@@ -134,10 +134,10 @@ const EducationSection = () => {
                 </p>
 
                 <div className="space-y-3">
-                  <h4 className="text-sm font-semibold text-white flex items-center gap-2">
+                  {/* <h4 className="text-sm font-semibold text-white flex items-center gap-2">
                     <Trophy className="w-4 h-4 text-yellow-500" />
                     Grade
-                  </h4>
+                  </h4> */}
                   <div className="flex flex-wrap gap-2">
                     {edu.achievements?.map((achievement, i) => (
                       <div
