@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero1.png";
+import HeroImg from "@/assets/images/hero.png";
 import KrishHackz from "@/assets/images/KrishHackz.jpg";
 
 export default function About() {
