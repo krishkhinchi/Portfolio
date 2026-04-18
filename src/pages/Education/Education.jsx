@@ -139,7 +139,7 @@ const EducationSection = () => {
                     Grade
                   </h4>
                   <div className="flex flex-wrap gap-2">
-                    {edu.achievements.map((achievement, i) => (
+                    {edu.achievements?.map((achievement, i) => (
                       <div
                         key={i}
                         className="px-3 py-1 rounded-full bg-teal-500/10 text-teal-400 flex items-center gap-2 text-sm"

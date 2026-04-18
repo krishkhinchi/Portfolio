@@ -9,6 +9,7 @@ import {
 } from "lucide-react";
 import AttentionAI from "@/assets/images/AttentionAI.png";
 import figma from "@/assets/images/figma.png";
+import odoo from "@/assets/images/odoo.png";
 
 const ProjectShowcase = () => {
   const [filter, setFilter] = useState("All");
