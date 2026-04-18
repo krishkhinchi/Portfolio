@@ -7,7 +7,7 @@ import {
   Award,
   Filter,
 } from "lucide-react";
-import odoo from "@/assets/images/odoo.png";
+import AttentionAI from "@/assets/images/AttentionAI.png";
 import figma from "@/assets/images/figma.png";
 
 const ProjectShowcase = () => {
@@ -15,31 +15,18 @@ const ProjectShowcase = () => {
 
   const projects = [
     {
-      title: "Odoo Replica, An ultimate business tool",
+      title: "Attention AI",
       description:
-        "This project enhanced my full-stack development skills and showcased my ability to create customizable software solutions.",
-      tags: ["React.js", "Node.js", "MongoDB", "Express.js","JavaScript", "Tailwind CSS"],
+        "Built 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗔𝗜, an AI-powered platform that predicts where viewers lose interest in videos and shows creators exactly how to fix it before publishing. It analyzes content frame-by-frame, generates attention insights, and delivers actionable recommendations to boost engagement.",
+      tags: ["Typescript", "Tailwind CSS", "MERN Stack", "SaaS", "AI"],
       category: "Frontend",
       links: {
-        github: "https://github.com/krishkhinchi/Odoo_Clone",
-        demo: "https://odooclone.netlify.app/",
+        github: "https://github.com/krishkhinchi/AttentionAI",
+        demo: "https://attentionnai.vercel.app/",
       },
-      image: odoo,
+      image: AttentionAI,
       featured: true,
-    },
-    // {
-    //   title: "Odoo Replica, An ultimate business tool",
-    //   description:
-    //     "This project enhanced my full-stack development skills and showcased my ability to create customizable software solutions.",
-    //   tags: ["Figma"],
-    //   category: "Figma",
-    //   links: {
-    //     demo: "https://github.com/krishkhinchi/Odoo_Clone",
-    //   },
-    //   image: figma,
-    //   featured: true,
-    // },
-    // You can add more projects here
+    }
   ];
 
   const categories = [

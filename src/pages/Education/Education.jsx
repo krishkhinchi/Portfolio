@@ -19,7 +19,7 @@ const EducationSection = () => {
       school: "Rai University",
       mascot: "📘",
       year: "2024-2028",
-      achievements: ["CGPA: 9.48", "Course: Computer Science"],
+      achievements: ["CGPA: 8.95", "Course: Computer Science"],
       skills: ["ReactJS", " NodeJS", "MongoDB", "Javascript", "Figma", "C/C++", "Git"],
       description:
         "Focused on full-stack development with skills in ReactJS, NodeJS, MongoDB, and UI/UX design using Figma. Strong foundation in programming and version control.",
@@ -29,7 +29,7 @@ const EducationSection = () => {
       school: "Arpan International School",
       mascot: "📗",
       year: "2021-2024",
-      achievements: ["Percentage: 44%", "Course: Science"],
+      achievements: ["Course: Science"],
       skills: ["Mathematics", "Physics", "Chemistry"],
       description:
         "Built a foundation in core science subjects with emphasis on analytical thinking and problem-solving through Mathematics, Physics, and Chemistry.",
@@ -39,7 +39,7 @@ const EducationSection = () => {
       school: "John Milton English School",
       mascot: "📙",
       year: "2020-2021",
-      achievements: ["Percentage: 56%"],
+      // achievements: ["Percentage: 56%"],
       skills: ["Mathematics", "Science", "Hindi", "English", "Social Science", "Computer"],
       description:
         "Gained a broad academic foundation with focus on Science, Mathematics, Computer, and languages, developing basic analytical, technical, and communication skills.",
